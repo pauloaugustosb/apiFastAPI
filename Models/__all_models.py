@@ -1,0 +1,2 @@
+from Models.artigo_models import ArtigoModel
+from Models.usuario_models import UsuarioModel
